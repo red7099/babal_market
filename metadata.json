@@ -1,0 +1,6 @@
+{
+  "name": "Babal Market",
+  "description": "Nepal's premier decentralized marketplace and multi-service ecosystem for hotel bookings, deluxe buses, auto and ride hailing, medical health consults, Jyotish astrology, and student discipline development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
